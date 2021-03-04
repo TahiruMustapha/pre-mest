@@ -1,0 +1,14 @@
+*{
+    margin:0
+}
+.right{
+    background-color: blueviolet;
+}
+
+.left{
+    background-color: rgb(88, 172, 4);
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+    

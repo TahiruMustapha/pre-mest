@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+.main{
+    height: 0;
+}
+.navber{
+    background-color: skyblue;
+
+    display: flex;
+    justify-content: special-between;
+    align-items: center;
+}
+
+.link{
+    display:flex;
+}
+.link li {
+    list-style-type: none;
+    margin-right: 10px;
+}
+header{
+    height: 100px;
+    background-color: teal;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    flex: 0.3;
+}
+
+footer{
+    background-color: burlywood;
+}
